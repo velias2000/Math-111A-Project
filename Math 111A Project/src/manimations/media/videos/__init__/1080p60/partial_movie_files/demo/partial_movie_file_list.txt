@@ -1,0 +1,3 @@
+# This file records the segment order used by Manim.
+file 'file:/Users/victore./Math 111A Project/src/manimations/media/videos/__init__/1080p60/partial_movie_files/demo/bae64186b560ec24d9d1cc088f00a3a15898acad77510e5636a37e0e5b6fb164.mp4'
+file 'file:/Users/victore./Math 111A Project/src/manimations/media/videos/__init__/1080p60/partial_movie_files/demo/0bad17a66288533f33cdb439fc15cd3666723a6ca892a42390e078f88eaa9c6c.mp4'
